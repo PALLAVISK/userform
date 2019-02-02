@@ -1,0 +1,16 @@
+
+{
+  "name": "",
+  "description": "",
+  "autoload": {
+      "psr-4": {"pal\\login3\\": "src/"}
+  },
+ 
+
+
+
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "rivsen/hello-world": "^0.1.0"
+    }
+}
